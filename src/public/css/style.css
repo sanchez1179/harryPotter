@@ -1,0 +1,22 @@
+.page-header h1 {
+
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: yellow;
+
+}
+
+.body {
+    background-image: url("https://i2.wp.com/www.geekarts.net/wp-content/uploads/2017/11/Harry-Potter-Banner-Facebook.jpg?resize=980%2C363&ssl=1");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+}
+
